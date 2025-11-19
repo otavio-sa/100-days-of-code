@@ -50,3 +50,13 @@ Adicione o seguinte trecho ao seu `settings.json` para desabilitar as sugestões
 Isso impede que o Copilot mostre sugestões automáticas enquanto você digita código JavaScript no VS Code.
 
 ---
+
+## COMO COMMITAR MINHAS ALTERAÇÕES?
+
+```bash
+
+git add . 
+git commit -m "feat: (mensagem)"
+git push origin main 
+
+```
