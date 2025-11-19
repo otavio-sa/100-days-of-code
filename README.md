@@ -12,9 +12,9 @@ O desafio está organizado em três fases de dificuldade progressiva.
 
 | Fase | Dias | Foco Principal |
 | :--- | :--- | :--- |
-| **Phase 1: Basic (Fundação)** | **Dias 1 a 40** | **Lógica Essencial (Condicionais, Loops)**, Arrays (Vetores), Strings, Objetos, Métodos Funcionais (`map/filter/reduce`), **POO Básico (Classes)** e Iteração Específica (`for...in`, `for...of`). |
-| **Phase 2: Intermediate (Estruturas Lineares)** | **Dias 41 a 75** | **Implementação de Estruturas com POO.** Pilhas, Filas, Listas Encadeadas, Algoritmos de Busca ($O(\log n)$) e Ordenação Simples. |
-| **Phase 3: Advanced (Otimização e Não Lineares)** | **Dias 76 a 100** | Estruturas Não Lineares (Árvores, Grafos, Hash Tables), Algoritmos Otimizados ($O(n \log n)$) e Programação Dinâmica (Memoization). |
+| **Phase 1: Basic (Fundação)** | **Dias 1 a 50** | **Lógica Essencial (Condicionais, Loops)**, Arrays (Vetores), Strings, Objetos, Métodos Funcionais (`map/filter/reduce`), **POO Básico (Classes)** e Iteração Específica (`for...in`, `for...of`). |
+| **Phase 2: Intermediate (Estruturas Lineares)** | **Dias 51 a 80** | **Implementação de Estruturas com POO.** Pilhas, Filas, Listas Encadeadas, Algoritmos de Busca ($O(\log n)$) e Ordenação Simples. |
+| **Phase 3: Advanced (Otimização e Não Lineares)** | **Dias 81 a 100** | Estruturas Não Lineares (Árvores, Grafos, Hash Tables), Algoritmos Otimizados ($O(n \log n)$) e Programação Dinâmica (Memoization). |
 
 
 ## 💻 Como Rodar as Soluções (Node.js)
