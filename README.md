@@ -1,0 +1,52 @@
+# 🎯 Desafio: Masterizando Estruturas de Dados e Algoritmos com JavaScript
+
+Este repositório é o registro do meu compromisso com o desafio **#100DaysOfCode**, focado exclusivamente no aprofundamento e domínio de **Lógica de Programação, Estruturas de Dados (DSA)** e **Algoritmos** utilizando **JavaScript (Node.js)**.
+
+O objetivo é evoluir do **Básico** ao **Avançado** de forma consistente, preparando o raciocínio para otimização de código e problemas de complexidade (Big O).
+
+---
+
+## 🏗 Estrutura do Projeto
+
+O desafio está organizado em três fases de dificuldade progressiva. 
+
+| Fase | Dias | Foco Principal |
+| :--- | :--- | :--- |
+| **Phase 1: Basic (Fundação)** | **Dias 1 a 40** | **Lógica Essencial (Condicionais, Loops)**, Arrays (Vetores), Strings, Objetos, Métodos Funcionais (`map/filter/reduce`), **POO Básico (Classes)** e Iteração Específica (`for...in`, `for...of`). |
+| **Phase 2: Intermediate (Estruturas Lineares)** | **Dias 41 a 75** | **Implementação de Estruturas com POO.** Pilhas, Filas, Listas Encadeadas, Algoritmos de Busca ($O(\log n)$) e Ordenação Simples. |
+| **Phase 3: Advanced (Otimização e Não Lineares)** | **Dias 76 a 100** | Estruturas Não Lineares (Árvores, Grafos, Hash Tables), Algoritmos Otimizados ($O(n \log n)$) e Programação Dinâmica (Memoization). |
+
+
+## 💻 Como Rodar as Soluções (Node.js)
+
+Todas as soluções são escritas em JavaScript puro e podem ser executadas via Node.js no seu terminal.
+
+1.  Clone o repositório:
+    ```bash
+    git clone <url-do-repositorio>
+    ```
+2.  Navegue até o diretório do desejado:
+    ```bash
+    cd <url>
+    ```
+3.  Execute o arquivo `nomeDoArquivo.js`:
+    ```bash
+    node nomeDoArquivo.js
+    ```
+
+---
+
+## 🚫 Como desativar o autocomplete do Copilot no VS Code para JavaScript
+
+Adicione o seguinte trecho ao seu `settings.json` para desabilitar as sugestões inline do Copilot apenas para arquivos JavaScript:
+
+```jsonc
+// Desabilitar sugestões inline para JavaScript
+"[javascript]": {
+    "editor.inlineSuggest.enabled": false
+}
+```
+
+Isso impede que o Copilot mostre sugestões automáticas enquanto você digita código JavaScript no VS Code.
+
+---
