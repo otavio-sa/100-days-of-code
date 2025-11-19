@@ -58,5 +58,5 @@ Isso impede que o Copilot mostre sugestões automáticas enquanto você digita c
 git add . 
 git commit -m "feat: (mensagem)"
 git push origin main 
-
+git status
 ```
